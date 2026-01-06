@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Hadi 👋</h1>
 <h3 align="center">Codes for fun 🧑🏽‍💻</h3>
 
-- 🔭 I’m currently working on my [***personal website***](https://github.com/hadiJafar/personal-website) and [***card game***](https://github.com/hadijafar/card-game-war)
-- 🌱 I’m currently learning more about algothirms and software engineering
+- 🔭 I’m currently working on taxonomy @ [***Shopify***](https://www.shopify.com/ca) 
+- 🌱 I’m currently having some fun with AI
 
 #### Reach Me Here!!
-- 🌐 [Website](https://hadijafar.netlify.app)
 - 💬 [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
 - 📫 hadi.jafar@torontomu.ca
 
